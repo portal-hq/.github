@@ -6,14 +6,7 @@ This repository holds the default configuration files and templates that apply t
 
 1. **Pull Request Template**:
    - The default template for pull requests to ensure consistency in PR submissions.
-   - [PULL_REQUEST_TEMPLATE/default.md](PULL_REQUEST_TEMPLATE/default.md)
-
-2. **Issue Templates** (if applicable in the future):
-   - Templates for bug reports, feature requests, and other types of issues.
-   - Located in the `ISSUE_TEMPLATE` directory.
-
-3. **Code of Conduct, Contributing Guidelines, etc.** (if applicable in the future):
-   - Files like `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, etc., to set community standards.
+   - [PULL_REQUEST_TEMPLATE.md](./PULL_REQUEST_TEMPLATE.md)
 
 ## Usage
 

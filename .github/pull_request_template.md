@@ -1,35 +1,34 @@
-## What's this PR about?
-<!-- Give a descriptive title and provide a description of the changes and the reasoning behind them. -->
+## Summary
+<!-- Briefly describe what this PR is about. -->
+[Your PR description here]
 
-## Code Insights
-- **Coding Style & Linting**:
-  - [ ] I've checked my code against our relevant coding style guide.
-  - [ ] I've noted any deviations from our relevant coding style guide in this PR.
-  - [ ] I've suggested updates to our relevant coding style guide or linting rules based on this PR (if applicable).
+## Visuals
+<!-- Attach screenshots or videos of any visual changes. If none, delete this section. -->
+![Screenshot here]
 
-- **Documentation**:
-  - [ ] I've updated the relevant documentation and/or code comments to reflect the changes in this PR.
+## Details
 
-- **Breaking Changes**:
-  <!-- Detail any breaking changes introduced by this PR and provide migration steps if applicable. -->
+### Code
+- Checked against coding style guide: [Yes/No]
+- Deviations from the style guide: [List any deviations]
+- Potential style guide updates: [Any suggestions?]
+- Documentation updated: [Yes/No]
 
-- **Performance**:
-  <!-- Share any performance considerations or metrics that show improvements/regressions. -->
+### Impact
+- Breaking Changes: [Yes/No]
+  - Migration steps: [If yes, describe]
+  - Backwards compatible: [Yes/No]
+- Performance impact: [Describe if there's any]
 
-## Visual Changes (if applicable)
-<!-- If applicable, attach screenshots or GIFs of the changes. -->
+### Testing
+- Unit tests added: [Yes/No]
+  - If no, reason: [Reason here]
+- E2E tests added: [Yes/No]
+  - If no, reason: [Reason here]
+- Manual tests in staging: [Yes/No]
+  - ![Screenshot or video link here if applicable]
+- E2E tests in Datadog: [Passed/Failed]
 
-## Testing and Verification
-- **Unit Tests**:
-  <!-- Did you add unit tests? If not, explain why. -->
-
-- **Metrics & Logging**:
-  <!-- Added necessary metrics, logs, and/or traces? If not, provide reasons. -->
-
-- **Manual Testing in Staging**:
-- [ ] Testing manually in staging passed. <!-- Attach screenshots or videos if applicable. -->
-
-- **E2E Tests**:
-  - [ ] e2e tests in Datadog passed after the latest build and complete test run.
-  <!-- Did e2e tests in Datadog pass in staging? -->
-
+### Misc.
+- Metrics, logs, or traces added: [Yes/No]
+- Other notes: [Any other relevant notes]

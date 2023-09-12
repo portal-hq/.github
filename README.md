@@ -6,7 +6,7 @@ This repository holds the default configuration files and templates that apply t
 
 1. **Pull Request Template**:
    - The default template for pull requests to ensure consistency in PR submissions.
-   - [PULL_REQUEST_TEMPLATE.md](./PULL_REQUEST_TEMPLATE.md)
+   - [.github/PULL_REQUEST_TEMPLATE/default.md](./.github/PULL_REQUEST_TEMPLATE/default.md)
 
 ## Usage
 

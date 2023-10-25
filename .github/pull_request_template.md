@@ -12,7 +12,9 @@
 - Checked against coding style guide: Yes|No
   <!-- - Deviations from the style guide: [List any deviations] -->
   <!-- - Potential style guide updates: [Any suggestions?] -->
-- Documentation updated: Yes|No
+- Documentation updated: Yes|No|Pending
+  <!-- - If pending, describe what needs to be updated -->
+  <!-- - If yes, link to documentation -->
 
 ### Impact
 - Breaking Changes: Yes|No

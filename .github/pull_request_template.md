@@ -35,4 +35,6 @@
 
 ### Misc.
 - Metrics, logs, or traces added: Yes|No
+- Changelog updated: Yes|No
+  <!-- - If no, reason: [Reason here] -->
 <!-- - Other notes: [Any other relevant notes] -->

@@ -9,11 +9,8 @@
 ## Details
 
 ### Code
-- Checked against coding style guide: Yes|No
-  <!-- - Deviations from the style guide: [List any deviations] -->
-  <!-- - Potential style guide updates: [Any suggestions?] -->
 - Documentation updated: Yes|No|Pending
-  <!-- - If pending, describe what needs to be updated -->
+  <!-- - If pending, describe what needs to be updated and create a triage ticket for it -->
   <!-- - If yes, link to documentation -->
 
 ### Impact
@@ -28,13 +25,7 @@
   <!-- - If no, reason: [Reason here] -->
 - E2E tests added: Yes|No
   <!-- - If no, reason: [Reason here] -->
-- Manual tests in staging: Pending
-  <!-- - ![Screenshot or video link here if applicable] -->
-- E2E tests in Datadog: Pending
-  <!-- ![Screenshot of e2e tests passing] -->
 
 ### Misc.
 - Metrics, logs, or traces added: Yes|No
-- Changelog updated: Yes|No
-  <!-- - If no, reason: [Reason here] -->
-<!-- - Other notes: [Any other relevant notes] -->
+  <!-- - If yes, describe: [Describe what was added if necessary] -->

@@ -9,23 +9,23 @@
 ## Details
 
 ### Code
-- Documentation updated: Yes|No|Pending
+- Documentation updated: No <!-- Yes|No|Pending -->
   <!-- - If pending, describe what needs to be updated and create a triage ticket for it -->
   <!-- - If yes, link to documentation -->
 
 ### Impact
-- Breaking Changes: Yes|No
+- Breaking Changes: No <!-- Yes|No -->
   <!-- - Migration steps: [If yes, describe] -->
   <!-- - Backwards compatible: Yes|No -->
-- Performance impact: Yes|No
+- Performance impact: No <!-- Yes|No -->
   <!-- - If yes, describe: [Describe impact here] -->
 
 ### Testing
-- Unit tests added: Yes|No
+- Unit tests added: No <!-- Yes|No -->
   <!-- - If no, reason: [Reason here] -->
-- E2E tests added: Yes|No
+- E2E tests added: No <!-- Yes|No -->
   <!-- - If no, reason: [Reason here] -->
 
 ### Misc.
-- Metrics, logs, or traces added: Yes|No
+- Metrics, logs, or traces added: No <!-- Yes|No -->
   <!-- - If yes, describe: [Describe what was added if necessary] -->

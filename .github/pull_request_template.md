@@ -11,8 +11,8 @@
 - Performance impact: No <!-- Yes|No -->
 
 ### Testing
-- Unit tests added: No <!-- Yes|No|Updated -->
-- E2E tests added: No <!-- Yes|No|Updated -->
+- Unit tests added/updated: No <!-- Yes|No -->
+- E2E tests added/updated: No <!-- Yes|No -->
 
 ### Misc.
-- Metrics, logs, or traces added: No <!-- Yes|No|Updated -->
+- Metrics, logs, or traces added/updated: No <!-- Yes|No -->

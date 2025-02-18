@@ -1,31 +1,18 @@
 ## Summary
-<!-- Briefly describe what this PR is about. -->
-[Your PR description here]
-
-## Visuals
-<!-- Attach screenshots or videos of any visual changes. If none, delete this section. -->
-![Screenshot here]
+<!-- What does your PR do? -->
 
 ## Details
 
 ### Code
-- Documentation updated: Yes|No|Pending
-  <!-- - If pending, describe what needs to be updated and create a triage ticket for it -->
-  <!-- - If yes, link to documentation -->
+- Documentation updated: No <!-- Yes|No|Pending -->
 
 ### Impact
-- Breaking Changes: Yes|No
-  <!-- - Migration steps: [If yes, describe] -->
-  <!-- - Backwards compatible: Yes|No -->
-- Performance impact: Yes|No
-  <!-- - If yes, describe: [Describe impact here] -->
+- Breaking Changes: No <!-- Yes|No -->
+- Performance impact: No <!-- Yes|No -->
 
 ### Testing
-- Unit tests added: Yes|No
-  <!-- - If no, reason: [Reason here] -->
-- E2E tests added: Yes|No
-  <!-- - If no, reason: [Reason here] -->
+- Unit tests added/updated: No <!-- Yes|No -->
+- E2E tests added/updated: No <!-- Yes|No -->
 
 ### Misc.
-- Metrics, logs, or traces added: Yes|No
-  <!-- - If yes, describe: [Describe what was added if necessary] -->
+- Metrics, logs, or traces added/updated: No <!-- Yes|No -->

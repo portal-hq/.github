@@ -1,18 +1,7 @@
 ## Summary
-<!-- What does your PR do? -->
+<!-- What does this PR do and why? -->
 
-## Details
+## Review Notes
+<!-- Anything reviewers should focus on or be aware of? -->
 
-### Code
-- Documentation updated: No <!-- Yes|No|Pending -->
-
-### Impact
-- Breaking Changes: No <!-- Yes|No -->
-- Performance impact: No <!-- Yes|No -->
-
-### Testing
-- Unit tests added/updated: No <!-- Yes|No -->
-- E2E tests added/updated: No <!-- Yes|No -->
-
-### Misc.
-- Metrics, logs, or traces added/updated: No <!-- Yes|No -->
+> **Copilot Review:** GitHub Copilot will automatically post a review below. Check its comments for additional context and suggestions.
